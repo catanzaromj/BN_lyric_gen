@@ -20,7 +20,7 @@ older hardware I had lying around.
 
 #### Generalizability
 
-The above code can be used for any band, but the spyder would need to be
+The above code can be used for any band, but the spider would need to be
 modified. The list of albums and their enumeration would need to be updated
 based on a different artists' page. 
 
